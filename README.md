@@ -37,7 +37,7 @@ India's Consumer Price Index (CPI) is the key metric used to track inflation and
 
 **Contribution of categories in the CPI basket (May 2023)**
 
-![CPI Basket Contribution](images/cpi-basket-contribution.png)
+![CPI Basket Contribution](images/images/cpi-basket-contribution.png)
 
 **Year-over-Year inflation trend by sector (2017–2023)**
 
