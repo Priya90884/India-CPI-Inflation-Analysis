@@ -33,7 +33,7 @@ India's Consumer Price Index (CPI) is the key metric used to track inflation and
 - Fruits spiked over +7% month-on-month in February 2023, the sharpest single jump in the food basket, while Vegetables were the most volatile overall — swinging as low as ~−12% around Nov–Dec 2022.
 - Found a 0.67 correlation between Fuel & Light and Transport & Communication inflation, with both series tracking closely together from late 2020 through mid-2023 — confirming oil price movements pass through meaningfully into transport costs.
 
-## 📷 Dashboard Preview
+## 📷 Dashboard  Preview
 
 **Contribution of categories in the CPI basket (May 2023)**
 
