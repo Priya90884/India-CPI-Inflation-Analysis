@@ -41,23 +41,22 @@ India's Consumer Price Index (CPI) is the key metric used to track inflation and
 
 **Year-over-Year inflation trend by sector (2017–2023)**
 
-![Y-o-Y Inflation Trend](images/yoy-inflation-trend.png)
+![Y-o-Y Inflation Trend](images/images/yoy-inflation-trend.png)
 
 **Month-on-month growth rate within the Food category**
 
-![M-o-M Food Category Growth](images/mom-food-category-growth.png)
-
+![M-o-M Food Category Growth](images/images/mom-food-category-growth.png)
 **Which sub-categories drove the rise in inflation**
 
-![Spices and Cereals Inflation Drivers](images/spices-cereals-inflation-drivers.png)
+![Spices and Cereals Inflation Drivers](images/images/spices-cereals-inflation-drivers.png)
 
 **Pre- vs. post-COVID annual inflation comparison**
 
-![Pre vs Post COVID Inflation](images/pre-post-covid-inflation.png)
-
+![Pre vs Post COVID Inflation](images/images/pre-post-covid-inflation.png)
 **Fuel & Light vs. Transport & Communication correlation trend**
 
-![Oil Price Correlation Trend](images/oil-price-correlation-trend.png)
+![Oil Price Correlation Trend](images/images/oil-price-correlation-trend.png)
+
 
 ## 📁 Repository Structure
 
